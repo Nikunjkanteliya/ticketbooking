@@ -1,0 +1,55 @@
+.head {
+    background-color: black;
+    color: white;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+      font-size: 25px;
+}
+.movies { color: white;
+    background-color: black;
+    width: 200px;
+    height: 150px;
+    text-align:  center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 44rem ;
+    margin-top: -5rem;
+   
+    font-size: 20px;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.09) 0px 2px 1px 0px, rgba(0, 0, 0, 0.09) 0px 4px 2px 0px, rgba(0, 0, 0, 0.09) 0px 8px 4px 0px, rgba(0, 0, 0, 0.09) 0px 16px 8px 0px, rgba(0, 0, 0, 0.09) 0px 32px 16px 0px;
+    box-sizing: border-box;
+    width: 150px;
+    height: 100px;
+    
+}
+
+.logo{
+margin: 30rem;
+font-size: 50px;
+}
+.allmovies{
+   display: flex;
+   flex-direction: column;
+   
+  
+   
+}
+.movies:hover {
+  border: 5px solid chocolate;
+}
+.iframes {
+  
+  border-radius: 25px;
+  box-shadow: rgba(0, 0, 0, 0.09) 0px 2px 1px 0px, rgba(0, 0, 0, 0.09) 0px 4px 2px 0px, rgba(0, 0, 0, 0.09) 0px 8px 4px 0px, rgba(0, 0, 0, 0.09) 0px 16px 8px 0px, rgba(0, 0, 0, 0.09) 0px 32px 16px 0px;
+  margin: 5rem;
+
+}
+marquee {
+  background-color: black;
+  color: white;
+  font-size: 2.5rem;
+}
